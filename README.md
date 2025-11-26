@@ -89,6 +89,11 @@ POST /api/jobs
 DELETE a job
 DELETE /api/jobs/:id
 
+-> working preview 
+
+<img width="1470" height="769" alt="Screenshot 2025-11-26 at 08 30 25" src="https://github.com/user-attachments/assets/b701872e-cbc1-4537-ad40-866cfb63d7d1" />
+
+
 -> License
 
 MIT License
